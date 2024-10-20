@@ -1,0 +1,3 @@
+speaker1|1
+speaker2|2
+speaker3|3
